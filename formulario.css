@@ -5,14 +5,24 @@ input[type=text]{
     padding: 12px 10 px;
     box-sizing:border-box;
 }
-
+body{
+    background-color: aquamarine;
+}
 h1{
     text-align: center;
-    background-color: aqua;
+    background-color: yellow;
 }
 
 h2{
-    background-color: aquamarine;
+    background-color: skyblue;
+}
+
+h3{
+    color: purple;
+}
+
+p{
+    color: blue;
 }
 input[type=number]{
     background-color: red;
@@ -44,4 +54,3 @@ nav{
     right: 1rem;
     width: 30%;
 }
-
